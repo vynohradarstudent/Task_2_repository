@@ -1,5 +1,12 @@
 {
-    "user": [
-        
+    "users": [
+        {
+            "id": 9,
+            "name": "Samir",
+            "surname": "Hamidov",
+            "photo_url": "https://profile.robocode.ua/login",
+            "balance": 11000000
+        }
+
     ]
 }
