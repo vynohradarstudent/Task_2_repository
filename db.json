@@ -1,5 +1,11 @@
 {
-    "user": [
-        
+    "users": [
+        {
+            "id": 11,
+            "name":"Hanry",
+            "surname":"Hohlenko",
+            "photo_url":"https://i.ytimg.com/vi/V0VH3IE7WJE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQf2hEyD35j4w0tM8swBqE2elRww" ,
+            "balance":10000000000
+        }
     ]
 }
