@@ -1,6 +1,13 @@
 {
     "user": [
         {
+            "id": 2,
+            "name": "Ivan",
+            "surname": "Usyk",
+            "photo_url": "https://profile.robocode.ua/images/cats/cat_login_3.webp",
+            "balance": 245
+        },
+        {
             "id": 8,
             "name": "Vlad",
             "surname": "Kobylar",
