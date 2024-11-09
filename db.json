@@ -6,7 +6,13 @@
             "surname": "Hamidov",
             "photo_url": "https://profile.robocode.ua/login",
             "balance": 11000000
+        },
+        {
+            "id": 2,
+            "name": "Ivan",
+            "surname": "Usyk",
+            "photo_url": "https://profile.robocode.ua/images/cats/cat_login_3.webp",
+            "balance": 245
         }
-
     ]
 }
