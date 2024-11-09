@@ -1,16 +1,14 @@
-{"users": [
-     {   "id": 12,
-"name": "Bratishka",
-"surname": "Zvezd",
-"photo_url": "https://media.newyorker.com/photos/59095bb86552fa0be682d9d0/master/pass/Monkey-Selfie.jpg",
-"balance" : 1500
 
-
-
+{
+    "user": [
+        {
+            "id": 12,
+            "name": "Pazik",
+            "surname": "Govorun",
+            "photo_url": "https://media.newyorker.com/photos/59095bb86552fa0be682d9d0/master/pass/Monkey-Selfie.jpg",
+            "balance": 245
+        }
+        
+    ]
 }
- 
 
-
-]
-}
-    
