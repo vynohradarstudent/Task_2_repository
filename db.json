@@ -1,7 +1,14 @@
 {
     "user": [
         {
-            "id": 2,
+            "id": 12,
+            "name": "Pazik",
+            "surname": "Govorun",
+            "photo_url": "https://media.newyorker.com/photos/59095bb86552fa0be682d9d0/master/pass/Monkey-Selfie.jpg",
+            "balance": 1500
+        },
+        {
+            "id": 2 ,
             "name": "Ivan",
             "surname": "Usyk",
             "photo_url": "https://profile.robocode.ua/images/cats/cat_login_3.webp",
@@ -13,6 +20,14 @@
             "surname": "Kobylar",
             "photo_url": "https://profile.robocode.ua/profile/user7285202697",
             "balance": 100000
+        },
+        {
+            "id": 1,
+            "name": "Ivan",
+            "surname": "NeUsyk",
+            "photo_url": "https://profile.robocode.ua/images/cats/cat_login_3.webp",
+            "balance": 245
         }
     ]
 }
+
