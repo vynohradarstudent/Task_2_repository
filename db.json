@@ -1,5 +1,11 @@
 {
     "user": [
-        
+        {
+            "id": 8,
+            "name": "Vlad",
+            "surname": "Kobylar",
+            "photo_url": "https://profile.robocode.ua/profile/user7285202697",
+            "balance": 100000
+        }
     ]
 }
