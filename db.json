@@ -1,5 +1,12 @@
 {
-    "user": [
+    "users": [
+        {
+            "id": 9,
+            "name": "Samir",
+            "surname": "Hamidov",
+            "photo_url": "https://profile.robocode.ua/login",
+            "balance": 11000000
+        },
         {
             "id": 12,
             "name": "Pazik",
@@ -15,6 +22,13 @@
             "balance": 245
         },
         {
+            "id": 8,
+            "name": "Vlad",
+            "surname": "Kobylar",
+            "photo_url": "https://profile.robocode.ua/profile/user7285202697",
+            "balance": 100000
+        },
+        {
             "id": 1,
             "name": "Ivan",
             "surname": "NeUsyk",
@@ -28,7 +42,6 @@
             "photo_url": "http7s://profile.robocode.ua/images/cats/cat_login_3.webp",
             "balance": 2045
         }
-        
     ]
 }
 
