@@ -1,4 +1,3 @@
-
 {
     "user": [
         {
@@ -6,6 +5,20 @@
             "name": "Pazik",
             "surname": "Govorun",
             "photo_url": "https://media.newyorker.com/photos/59095bb86552fa0be682d9d0/master/pass/Monkey-Selfie.jpg",
+            "balance": 1500
+        },
+        {
+            "id": 2 ,
+            "name": "Ivan",
+            "surname": "Usyk",
+            "photo_url": "https://profile.robocode.ua/images/cats/cat_login_3.webp",
+            "balance": 245
+        },
+        {
+            "id": 1,
+            "name": "Ivan",
+            "surname": "NeUsyk",
+            "photo_url": "https://profile.robocode.ua/images/cats/cat_login_3.webp",
             "balance": 245
         }
         
